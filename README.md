@@ -20,10 +20,10 @@ if (!require("ggfortify")) devtools::install_github("sinhrks/ggfortify")
 if (!require("INEI")) devtools::install_github("arturochian/INEI")
 ```
 
-Example
--------
+Ejemplo de uso
+--------------
 
-This is a basic example which shows you how to solve a common problem:
+Este es un pequeño ejemplo de su uso:
 
 ``` r
 library(dplyr)
@@ -33,14 +33,8 @@ library(dygraphs)
 library(INEI)
 library(ggfortify)
 data("aguapublica")
-autoplot(aguapublica[,2:5],facets = F,main = "Hogares con acceso a agua potable por Red Pública (%)",group = "Region")
-```
-
-<img src="man/figures/README-example-1.png" width="100%" />
-
-``` r
 p<-autoplot(aguapublica[,2:5],facets = F)
 p + ggtitle("Hogares con acceso a agua potable por Red Pública (%)") + xlab("años") + ylab("(%) población") 
 ```
 
-<img src="man/figures/README-example-2.png" width="100%" />
+<img src="man/figures/README-example-1.png" width="100%" />
