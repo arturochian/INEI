@@ -1,5 +1,13 @@
 Package: INEI
 Version: 1.0.0
 Title: Trabaja con Data del INEI. Creado por BEST.
+Authors@R: person("Arturo", "Chian", email = "arturob.chian@gmail.com",
+                  role = c("aut", "cre"))
+License: MIT
+Imports: 
+    dplyr,
+    xts
+Depends:
+    R (>= 3.1)
 Description: Un paquete de BEST disenado para trabajar con Bases de datos del INEI
 RoxygenNote: 6.0.1

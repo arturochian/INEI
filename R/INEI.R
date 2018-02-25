@@ -2,7 +2,6 @@
 #'
 #' @name INEI
 #' @docType package
-#' @import zoo
 #' @import xts
 #' @import dplyr
 
