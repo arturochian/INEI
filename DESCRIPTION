@@ -1,0 +1,5 @@
+Package: INEI
+Version: 1.0.0
+Title: Trabaja con Data del INEI. Creado por BEST.
+Description: Un paquete de BEST disenado para trabajar con Bases de datos del INEI
+RoxygenNote: 6.0.1
