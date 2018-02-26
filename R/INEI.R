@@ -28,9 +28,9 @@ NULL
 #' @format Base de datos en formato XTS con la data de Sistema de Informacion Regional para la Toma de Decisiones SIRTOD 
 NULL
 
-#' Base de datos de Hogares Hogares con acceso a alumbrado eléctrico por Red Publica.
+#' Base de datos de Hogares Hogares con acceso a alumbrado electrico por Red Publica.
 #'
-#' Base de datos de Hogares con acceso a alumbrado eléctrico por Red Publica  del Sistema de Informacion Regional para la Toma de Decisiones SIRTOD [http://iinei.inei.gob.pe/iinei/SIRTOD/]
+#' Base de datos de Hogares con acceso a alumbrado electrico por Red Publica  del Sistema de Informacion Regional para la Toma de Decisiones SIRTOD [http://iinei.inei.gob.pe/iinei/SIRTOD/]
 #'
 #' @docType data
 #' @keywords datasets

@@ -3,12 +3,12 @@
 \docType{data}
 \name{electrico}
 \alias{electrico}
-\title{Base de datos de Hogares Hogares con acceso a alumbrado eléctrico por Red Publica.}
+\title{Base de datos de Hogares Hogares con acceso a alumbrado electrico por Red Publica.}
 \format{Base de datos en formato XTS con la data de Sistema de Informacion Regional para la Toma de Decisiones SIRTOD}
 \usage{
 data(electrico)
 }
 \description{
-Base de datos de Hogares con acceso a alumbrado eléctrico por Red Publica  del Sistema de Informacion Regional para la Toma de Decisiones SIRTOD [http://iinei.inei.gob.pe/iinei/SIRTOD/]
+Base de datos de Hogares con acceso a alumbrado electrico por Red Publica  del Sistema de Informacion Regional para la Toma de Decisiones SIRTOD [http://iinei.inei.gob.pe/iinei/SIRTOD/]
 }
 \keyword{datasets}
