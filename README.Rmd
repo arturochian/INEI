@@ -26,6 +26,7 @@ if (!require("dplyr")) install.packages("dplyr")
 if (!require("xts")) install.packages("xts")
 if (!require("DT")) install.packages("DT")
 if (!require("ggplot2")) install.packages("ggplot2")
+if (!require("dygraphs")) install.packages("dygraphs")
 if (!require("ggfortify")) devtools::install_github("sinhrks/ggfortify")
 if (!require("INEI")) devtools::install_github("arturochian/INEI")
 ```
