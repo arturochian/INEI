@@ -2,8 +2,7 @@
 #'
 #' @name INEI
 #' @docType package
-#' @import xts
-#' @import dplyr
+
 
 NULL
 
